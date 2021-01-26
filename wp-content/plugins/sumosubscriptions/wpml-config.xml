@@ -1,0 +1,36 @@
+<wpml-config>
+    <admin-texts>
+        <key name="sumo_add_to_cart_text"/>
+        <key name="sumo_signup_fee_msg_customization"/>
+        <key name="sumo_freetrial_caption_msg_customization"/>
+        <key name="sumo_trial_fee_msg_customization"/>
+        <key name="sumo_subscription_fee_msg_customization"/>
+        <key name="sumo_instalment_msg_customization"/>
+        <key name="sumo_variation_product_fee_range_msg_customization"/>
+        <key name="sumo_day_single_plural"/>
+        <key name="sumo_week_single_plural"/>
+        <key name="sumo_month_single_plural"/>
+        <key name="sumo_year_single_plural"/>
+        <key name="sumo_instalment_single_plural"/>
+        <key name="sumo_subscription_synchronization_plan_msg_customization"/>
+        <key name="sumo_prorated_amount_first_payment_msg_customization"/>
+        <key name="sumo_prorated_amount_first_renewal_msg_customization"/>
+        
+        <key name="sumo_cancel_dialog_message"/>
+        <key name="sumo_cancel_at_the_end_of_billing_dialog_message"/>
+        <key name="sumo_cancel_on_the_scheduled_date_dialog_message"/>
+        <key name="sumo_revoking_cancel_confirmation_dialog_message"/>
+        <key name="sumo_active_subsc_per_product_in_product_page"/>
+        <key name="sumo_active_subsc_through_site_in_product_page"/>
+        <key name="sumo_active_trial_per_product_in_cart_page"/>
+        <key name="sumo_active_trial_through_site_in_cart_page"/>
+        <key name="sumo_err_msg_for_paused_in_pay_for_order_page"/>
+        <key name="sumo_err_msg_for_pending_cancellation_in_pay_for_order_page"/>
+        <key name="sumo_err_msg_if_user_paying_active_auto_subscription_renewal_order"/>
+        
+        <key name="sumo_order_subsc_checkout_label_option"/>
+        <key name="sumo_order_subsc_duration_checkout_label_option"/>
+        <key name="sumo_order_subsc_duration_value_checkout_label_option"/>
+        <key name="sumo_order_subsc_recurring_checkout_label_option"/>
+    </admin-texts>
+</wpml-config>
